@@ -3,7 +3,18 @@
   font-family: 'Roboto Slab', serif;
 
 }
-button:hover{
+li:hover{
     background-color: crimson;
+
+}
+
+h1,
+h2{
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+}
+
+#contactme{
+  background-color: blue
 
 }
