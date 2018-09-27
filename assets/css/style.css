@@ -7,3 +7,7 @@ button:hover{
     background-color: crimson;
 
 }
+
+button:focus{
+    color: blue;
+}
